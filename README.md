@@ -1,2 +1,2 @@
 # PI-Zadace
-Zadaće iz kolegija Programsko inženjerstvo na Fakultetu informatike u Puli
+Assignments from the Program Engineering course at the Faculty of Informatics in Pula.
